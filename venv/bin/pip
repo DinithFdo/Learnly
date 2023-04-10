@@ -1,4 +1,4 @@
-#!/Users/dinithfernando/Documents/Projects/SDGP_SE-75/venv/bin/python3.10
+#!/Users/dinithfernando/Documents/Projects/Learnly/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
