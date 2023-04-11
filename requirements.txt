@@ -3,8 +3,4 @@ flask-sqlalchemy
 werkzeug
 happytransformer
 transformers
-torch
-tensorflow
-scipy
-numpy
 gunicorn
