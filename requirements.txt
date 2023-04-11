@@ -1,2 +1,5 @@
 flask
+flask-sqlalchemy
+werkzeug
+sqlite3
 gunicorn
